@@ -1,4 +1,4 @@
-#Event Tracker Mobile Application
+###Event Tracker Mobile Application###
 
   My Event Tracker app was designed to help users organize and manage their personal events in one place. The app allows users to create an account, securely log in, and add, edit, delete, and view events in a grid layout. I also included optional SMS notifications so users can receive reminders about their events. The app was designed to address the need of busy professionals and students for a simple and organized way to keep track of upcoming activities and appointments.
 
